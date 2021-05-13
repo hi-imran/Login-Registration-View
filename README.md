@@ -1,2 +1,2 @@
 # login-registration-view
-This is my first github repository using git version control tool.
+This is my first GitHub repository using the git version control tool.
